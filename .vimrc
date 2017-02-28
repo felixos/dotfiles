@@ -52,9 +52,6 @@ nmap <Leader>L <Plug>(easymotion-overwin-line)
 map  <Leader>w <Plug>(easymotion-bd-w)
 nmap <Leader>w <Plug>(easymotion-overwin-w)
 
-" vim-xkbswitch
-let g:XkbSwitchEnabled = 1
-
 
 
 " General
@@ -66,5 +63,3 @@ set tabstop=4
 set shiftwidth=4
 " disable Background Color Erase (BCE)
 set t_ut=
-" text width for automatic word wrapping
-set tw=79
